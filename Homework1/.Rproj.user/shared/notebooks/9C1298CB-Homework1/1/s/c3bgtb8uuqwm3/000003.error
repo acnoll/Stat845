@@ -1,1 +1,0 @@
-{"frames":[],"message":"Error: unexpected ',' in:\n\"      #kmTableRow$kaplanMeirSurvivalCurveAtTime_s_tj=round((cnt_n-loss)/length(censoredTimesVectorNumeric),3)\n      kmTableRow$kaplanMeirSurvivalCurveAtTime_s_tj=round((cnt_n-loss)/cnt_n)*as.numeric(prevSurv),\"\n"}
